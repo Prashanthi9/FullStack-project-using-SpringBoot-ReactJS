@@ -16,7 +16,7 @@ Database: MySQL
 
 API Platform: Postman
 
-Additional Tools: Git, npm, Axios, Bootstrap (or any other UI framework), RESTful APIs
+Additional Tools: Git, npm, Axios, Bootstrap, RESTful APIs
 
 Spring Boot Backend:
 Used RESTful API endpoints and Database integration with Spring Data JPA for creating packages. connected postman for @PostMapping for sending data to the database and @GetMapping for retrieving data and @PutMapping for updating data and @deleteMapping for deleting data.
